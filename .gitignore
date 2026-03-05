@@ -121,3 +121,9 @@ venv.bak/
 
 # private macros
 macros_private.py
+
+# Tested Results
+diffusion_policy_trained_models/
+
+# Datasets
+datasets/
