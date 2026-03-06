@@ -129,4 +129,5 @@ diffusion_policy_trained_models/
 datasets/
 
 # Models
-experiments/**/trained_models/
+experiments/**/trained_models/**/Models
+experiments/**/trained_models/**/videos
